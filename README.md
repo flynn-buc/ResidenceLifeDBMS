@@ -1,3 +1,3 @@
-# CPSC304Project_project_f1c3b_o5w2b_t9x1b
+Residential Housing JDBC management app
 
-Our database is meant to be used for residence managment
+Requires UBC CWL, UBC CS Oracle access, and knowledge of Oracle connection settings inside Intellij
