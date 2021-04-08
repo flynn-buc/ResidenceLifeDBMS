@@ -9,6 +9,10 @@ public class OracleTableNames {
             "SENIORADVISOR", "FLOOR", "HOUSE", "UNIT", "RESIDENCE", "RESIDENCECAPACITY", "RESIDENCEBUDGET",
             "RESIDENTINFO", "RESIDENTADDRESS")); // names should correspond with tableNames present in DDL old.sql
 
+    public static final Set<String> TABLE_NAMES_Set = new HashSet<>(Arrays.asList("CAMPUS", "RESIDENTIALMANAGINGOFFICE", "BUILDINGMANAGER", "RESIDENCEADVISOR",
+            "SENIORADVISOR", "FLOOR", "HOUSE", "UNIT", "RESIDENCE", "RESIDENCECAPACITY", "RESIDENCEBUDGET",
+            "RESIDENTINFO", "RESIDENTADDRESS")); // names should correspond with tableNames present in DDL old.sql
+
     public static final List<String> PRETTY_NAMES = new ArrayList<>(Arrays.asList("Campus", "Managing Office", "Building Manager", "Residence Advisor",
             "Senior Advisor", "Floor", "House","Unit"));
 
