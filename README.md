@@ -25,3 +25,6 @@ Below is a preview of the application
 
 ## Requirements
 Requires UBC CWL, UBC CS Oracle access, and knowledge of Oracle connection settings inside Intellij, or a running Oracle SQL server
+
+### Dependencies
+Relies on [Printable Prepared Statement](https://github.com/jmhirsch/PrintablePreparedStatement) for dynamic query logging
