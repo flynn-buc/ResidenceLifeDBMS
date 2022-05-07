@@ -18,4 +18,5 @@ See the examples folder for screenshots & example queries
 
 
 
-Requires UBC CWL, UBC CS Oracle access, and knowledge of Oracle connection settings inside Intellij
+## Requirements
+Requires UBC CWL, UBC CS Oracle access, and knowledge of Oracle connection settings inside Intellij, or a running Oracle SQL server
