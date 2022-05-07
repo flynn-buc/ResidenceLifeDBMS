@@ -13,8 +13,13 @@ All information can be accessed conveniently through the Java FX UI, and informa
 
 
 ## Examples
-
+### Detailed Examples
 See the examples folder for screenshots & example queries
+
+### Preview
+Below is a preview of the application
+
+<img width=800 align="center" src="https://github.com/jmhirsch/ResidenceLifeDBMS/blob/master/Examples/Delete/1.%20Before.png"/>
 
 
 
