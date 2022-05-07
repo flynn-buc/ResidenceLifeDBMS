@@ -1,0 +1,5 @@
+Location in code
+	Called from: ui.MainWindow
+		Lines: 82-86, 144-151
+	Implemented in: handler.DataHandler
+		Lines: 127-144

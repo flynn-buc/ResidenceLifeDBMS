@@ -1,0 +1,5 @@
+Location in code
+	Called from: ui.ResidentInsert
+		Lines: 185
+	Implemented in: handler.DataHandler
+		Lines: 34-63

@@ -1,0 +1,7 @@
+Location in code
+	Called from: ui.MainWindow
+		Lines: 226
+	Implemented in: handler.DataHandler
+		Lines: 164-186 mainly, but many other functions are used. 
+			Dynamically generated, does not really exist in code. 
+			Shares code with SELECTION
