@@ -14,6 +14,7 @@ All information can be accessed conveniently through the Java FX UI, and informa
 
 ## Examples
 
+See the examples folder for screenshots & example queries
 
 
 
