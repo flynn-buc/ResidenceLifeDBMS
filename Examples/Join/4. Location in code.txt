@@ -1,7 +1,0 @@
-Location in code
-	Called from: ui.AdvanceSearchPane
-		Lines: 160
-	Lives in: sql.AdvancedQueryList
-		Lines: 41-45
-	Implemented in: handler.DataHandler
-		Lines: 230-245
